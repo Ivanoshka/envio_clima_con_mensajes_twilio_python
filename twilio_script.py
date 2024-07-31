@@ -1,7 +1,7 @@
 """
 ************************************************************************
-* Author = @alexbonella                                                *
-* Date = '15/09/2022'                                                  *
+* Author = @Carlos Ivan Roque Aguilar                                                *
+* Date = '31/07/2024'                                                  *
 * Description = Envio de mensajes Twilio con Python                    *
 ************************************************************************
 """
